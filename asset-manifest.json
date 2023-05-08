@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9d3df3c4.css",
+    "main.js": "/static/js/main.08faf82e.js",
+    "static/js/27.6980424d.chunk.js": "/static/js/27.6980424d.chunk.js",
+    "static/media/Akeem.jpg": "/static/media/Akeem.285d6e1fbb4d5d59d88f.jpg",
+    "static/media/video.mp4": "/static/media/video.d225edd6d7d4d4a8f5b7.mp4",
+    "static/media/quiz.png": "/static/media/quiz.0b032b50038af38aca5b.png",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/leads.png": "/static/media/leads.b187eb145bc859186ca1.png",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/cf.png": "/static/media/cf.9b3302a3c7d1067ab05a.png",
+    "static/media/Akeem_Ogle_Resume.pdf": "/static/media/Akeem_Ogle_Resume.031bf55aa10f20c47cc9.pdf",
+    "static/media/404.jpg": "/static/media/404.19e523cdb4d4a12db938.jpg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/cancel.svg": "/static/media/cancel.17825c74c3c6b6934429010ee3f913fd.svg",
+    "static/media/quote.svg": "/static/media/quote.6b6d47557f1672a2ce0f199a1bd468dc.svg",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.9d3df3c4.css",
+    "static/js/main.08faf82e.js"
+  ]
+}
